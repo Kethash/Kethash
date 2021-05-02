@@ -1,6 +1,7 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kethash&show_icons=true&theme=cobalt" />
 <div align="left"> <b> I'm an engineering student </br>
 I mostly code in Python, C, Java and Javascript</b>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kethash&show_icons=true&theme=cobalt" /></div>
+</div>
 
 
 <p>
