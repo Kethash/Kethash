@@ -7,8 +7,8 @@ ___
 
 Currently working on : [Diabot](https://github.com/Kethash/DiaBot.git) while learning Typescript
 </br></br>
-<a href="https://github.com/Kethash/Nozobot_2.0">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kethash&repo=Nozobot_2.0" />
+<a href="https://github.com/Kethash/DiaBot">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kethash&repo=DiaBot" />
 </a>
 
 ## My programing languages
