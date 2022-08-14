@@ -1,6 +1,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kethash&show_icons=true&theme=cobalt" />
 <b> I'm an engineering student </br>
-I mostly code in Python, C, Java and Javascript</b>
+I mostly code in Python, Java, Scala and Javascript</b>
 </br></br></br></br></br></br>
 
 ___
